@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Continuous-control-project-DDPG
-An implementation of the DDPG algorithm to solve a reacher arm problem.
-=======
 # Project: Continuous Control
 ## Summary
 In this project an agent was trained to solve a episodic continuous control task which involved tracking a moving object using a simulated actuating robotic arm. An example of the task can be seen in the animation below. To solve this task an implantation of the actor-critic based Deep Deterministic Policy Gradient (DDPG) algorithm was created. The algorithm used two standard neural networks with a prioritised replay buffer to learn how to accurately control the motors of the arm to track the object. After hyperparameter tuning, the final model was able to solve the environment after only $236$ training episodes.
@@ -123,4 +119,3 @@ In this project a single actuating arm was used during the training phase. Howev
 |![](GIFS/Control_gif_1.gif)|
 |:---:|
 | *GIF showing another example of a successful policy rolled out to 20 robotic arms.*|
->>>>>>> master
