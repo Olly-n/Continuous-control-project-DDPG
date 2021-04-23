@@ -21,7 +21,7 @@ Please run the following in a fresh Python 3.6 virtual environment. To install t
 ```
 pip install -r requirements.txt
 ``` 
-Additionally, you will need to download the Unity environment in which the agent was trained. Instruction for this can be found within the `Continuous_Control.ipynb` notebook or by following [this link](https://github.com/udacity/deep-reinforcement-learning/tree/master/p2_continuous-control).
+Additionally, you will need to download the Unity environment in which the agent was trained. Instruction for this can be found within the `Continuous_Control.ipynb` notebook or by [following this link](https://github.com/udacity/deep-reinforcement-learning/tree/master/p2_continuous-control#getting-started) and selecting the correct version 1 environment for your system.
 
 ## Files
 This repository contains the following files and folders:
